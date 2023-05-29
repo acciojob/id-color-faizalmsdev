@@ -5,6 +5,8 @@
 	border-color:green;
 	border-top-style:solid;
 	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 }
 
 #red{
@@ -13,6 +15,8 @@
 	border-color:black;
 	border-top-style:solid;
 	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 }
 
 #green{
@@ -21,4 +25,6 @@
 	border-color:yellow;
 	border-top-style:solid;
 	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 }
